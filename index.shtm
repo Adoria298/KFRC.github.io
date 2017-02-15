@@ -1,0 +1,95 @@
+<html>
+	<head>
+		<title>Katherine Forrest Registered Childminder</title>
+	</head>
+	<body>
+		<table class="everything" border=5 align=center>
+			<tr class="fixed-navigation-bar">
+				<td>&nbsp</td>
+				<td>
+					<table border=5 align=center>
+						<tr>
+							<th align=center colspan=4>Katherine Forrest Registered Childminder</th>
+						</tr>
+						<tr>
+							<td>Home</td>
+							<td><a href="vacancies.shtm">Vacancies</a></td>
+							<td><a href="contact.shtm">Contact Information</a></td>
+							<td><a href="about.shtm">About Us</a></td>
+						</tr>
+					</table>
+				</td>
+				<td>&nbsp</td>
+			</tr>
+			<tr>
+				<td class="sidebar-left">
+					<table border=1>
+						<tr>
+							<th colspan=2>Plan for the Week</th>
+						</tr>
+						<tr>
+							<td>Monday</td>
+							<td>Williamsons Park trip</td>
+						</tr>
+						<tr>
+							<td>Tuesday</td>
+							<td>Williamsons Park trip</td>
+						</tr>
+						<tr>
+							<td>Wednesday</td>
+							<td>Stay at Home day</td>
+						</tr>
+						<tr>
+							<td>Thursday</td>
+							<td>Trip to Morecambe</td>
+						</tr>
+						<tr>
+							<th>Notes</th>
+							<td>Half-Term!</td>
+						</tr>
+					</table>
+				<td class="main-info"><!--#include virtual="news.htm" -->
+					<h3>Welcome To Our Website!</h3>
+					<p>As you may have noticed, this is the official website for Katherine Forrest Registered Childminder, a childminder based in the Lancaster area. The basic structure, or skeleton, is all in place, but that is all. This is very much a work-in-progress website, but it is the first step towards the future.</p>
+
+					<p>On here, there are links to <img src="images/babydayslogo.png" alt="Baby's Days" width=75px height=25px>, where you can see what your child has done today, contact details for Katherine, useful information for parents, and information about the week ahead.</p>
+					<hr>
+				</td>
+				<td class="sidebar-right">
+					<table border=0>
+						<tr>
+							<th colspan=2>Opening Times</th>
+						</tr>
+						<tr>
+							<td>Monday</td>
+							<td>8:00 to 18:00</td>
+						</tr>
+						<tr>
+							<td>Tuesday</td>
+							<td>8:00 to 18:00</td>
+						</tr>
+						<tr>
+							<td>Wednesday</td>
+							<td>8:00 to 18:00</td>
+						</tr>
+						<tr>
+							<td>Thursday</td>
+							<td>8:00 to 18:00</td>
+						</tr>
+						<tr>
+							<td>Friday</td>
+							<td>Closed</td>
+						</tr>
+						<tr>
+							<td>Saturday</td>
+							<td>Closed</td>
+						</tr>
+						<tr>
+							<td>Sunday</td>
+							<td>Closed</td>
+						</tr>
+					</table>
+			</tr>
+		</table>
+	</body>
+</html>
